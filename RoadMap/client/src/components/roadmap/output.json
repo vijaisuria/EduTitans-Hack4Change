@@ -1,0 +1,117 @@
+[
+  {
+    "field": "Basics and Fundamentals",
+    "skills": [
+      "Computer Science Fundamentals",
+      "Programming Basics (already have)"
+    ]
+  },
+  {
+    "field": "Programming Languages",
+    "skills": [
+      [
+        "Python",
+        "JavaScript (already have)"
+      ],
+      "Syntax",
+      "Basic Programming Constructs"
+    ]
+  },
+  {
+    "field": "Front-end Development",
+    "skills": [
+      "HTML (already have)",
+      "CSS (already have)",
+      "JQuery (already have)",
+      [
+        "React",
+        "Angular",
+        "Vue.js"
+      ]
+    ]
+  },
+  {
+    "field": "Version Control",
+    "skills": [
+      "Git"
+    ]
+  },
+  {
+    "field": "Data Structures & Algorithms",
+    "skills": [
+      "Arrays",
+      "Lists",
+      "Stacks",
+      "Queues",
+      "Trees",
+      "Graphs",
+      "Sorting",
+      "Searching"
+    ]
+  },
+  {
+    "field": "Development Tools",
+    "skills": [
+      "Text Editor (VS Code, Sublime Text)",
+      "Terminal/Command Line",
+      "Integrated Development Environment (IDE)"
+    ]
+  },
+  {
+    "field": "Object-Oriented Programming",
+    "skills": [
+      "Classes",
+      "Objects",
+      "Inheritance",
+      "Polymorphism"
+    ]
+  },
+  {
+    "field": "Databases",
+    "skills": [
+      "SQL (MySQL, PostgreSQL)",
+      "NoSQL (MongoDB)"
+    ]
+  },
+  {
+    "field": "Testing & Debugging",
+    "skills": [
+      "Unit Testing",
+      "Integration Testing",
+      "Debugging Tools"
+    ]
+  },
+  {
+    "field": "Software Design Patterns",
+    "skills": [
+      "Singleton",
+      "Factory",
+      "Observer"
+    ]
+  },
+  {
+    "field": "Cloud Computing",
+    "skills": [
+      "AWS",
+      "Azure",
+      "Google Cloud"
+    ]
+  },
+  {
+    "field": "DevOps",
+    "skills": [
+      "Continuous Integration & Continuous Delivery (CI/CD)",
+      "Docker",
+      "Kubernetes"
+    ]
+  },
+  {
+    "field": "Communication & Collaboration",
+    "skills": [
+      "Agile Methodologies",
+      "Teamwork",
+      "Technical Writing",
+      "Public Speaking"
+    ]
+  }
+]

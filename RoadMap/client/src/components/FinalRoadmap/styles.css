@@ -1,0 +1,10 @@
+.dark .react-flow__node {
+    background: #a5a4a4;
+    color: white;
+  }
+   
+  .light .react-flow__node {
+    background: rgb(172, 171, 171);
+    color: #111;
+  }
+  

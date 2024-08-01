@@ -1,0 +1,93 @@
+[
+    {
+        "field": "Basics and Fundamentals",
+        "skills": [
+            "Computer Science Fundamentals",
+            "Data Structures and Algorithms",
+            "Problem Solving"
+        ]
+    },
+    {
+        "field": "Programming Language",
+        "skills": [
+            "Python",
+            "JavaScript (already have)",
+            "Java"
+        ]
+    },
+    {
+        "field": "Web Development (already have)",
+        "skills": [
+            "HTML (already have)",
+            "CSS (already have)",
+            "JavaScript (already have)",
+            "JQuery (already have)"
+        ]
+    },
+    {
+        "field": "Version Control",
+        "skills": [
+            "Git",
+            "GitHub"
+        ]
+    },
+    {
+        "field": "Linux Fundamentals",
+        "skills": [
+            "Bash Scripting",
+            "Command Line Navigation"
+        ]
+    },
+    {
+        "field": "Machine Learning Core",
+        "skills": [
+            "Linear Algebra",
+            "Calculus (Differential Calculus, Optimization)",
+            "Probability and Statistics"
+        ]
+    },
+    {
+        "field": "Machine Learning Libraries",
+        "skills": [
+            "Scikit-learn",
+            [
+                "TensorFlow",
+                "Keras",
+                "PyTorch"
+            ]
+        ]
+    },
+    {
+        "field": "Data Handling",
+        "skills": [
+            "Data Preprocessing",
+            "Feature Engineering"
+        ]
+    },
+    {
+        "field": "Model Building and Evaluation",
+        "skills": [
+            "Supervised Learning (Regression, Classification)",
+            "Unsupervised Learning (Clustering, Dimensionality Reduction)",
+            "Model Evaluation and Selection (Cross-Validation, Metrics, Hyperparameter Tuning)"
+        ]
+    },
+    {
+        "field": "Deployment",
+        "skills": [
+            "Cloud Platforms (AWS, Azure, GCP)",
+            "API Development",
+            "Data Visualization (Matplotlib, Seaborn)"
+        ]
+    },
+    {
+        "field": "Advanced Topics",
+        "skills": [
+            "Deep Learning (Neural Networks, Convolutional Neural Networks, Recurrent Neural Networks)",
+            "Reinforcement Learning",
+            "Natural Language Processing (NLP)",
+            "Computer Vision",
+            "Time Series Analysis"
+        ]
+    }
+]

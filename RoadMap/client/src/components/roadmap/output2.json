@@ -1,0 +1,57 @@
+[
+    {
+        "field": "Basics and Fundamentals",
+        "skills": [
+            "Computer Science Fundamentals",
+            "Programming Basics (already have)",
+            "Version Control (Git)",
+            "Data Structures and Algorithms",
+            "Command Line",
+            "Web Fundamentals (already have)"
+        ]
+    },
+    {
+        "field": "Backend Technologies",
+        "skills": [
+            [ 
+                "ASP.NET Core",
+                "Node.js (JavaScript)"
+            ],
+            "DataBase",
+            [
+                "SQL (e.g., MySQL, PostgreSQL)",
+                "NoSQL (e.g., Cosmos)"
+            ],
+            "API Design and Development (RESTful APIs, JSON)",
+            "Microservices",
+            "Cloud Platforms",
+            [
+                "Azure (Microsoft's cloud)"
+            ]
+        ]
+    },
+    {
+        "field": "Software Engineering Practices",
+        "skills": [
+            "Testing (Unit, Integration, End-to-End)",
+            "Code Quality (Clean Code Principles, Code Reviews, Linting)",
+            "Deployment and Automation (CI/CD)",
+            "Security (Basic Principles, Authentication, Authorization)"
+        ]
+    },
+    {
+        "field": "Microsoft-Specific Technologies",
+        "skills": [
+            "Azure Services (Azure Functions, Azure Cosmos DB, Azure Active Directory, Azure Storage)",
+            ".NET (C#)"
+        ]
+    },
+    {
+        "field": "Specialized Areas (Optional)",
+        "skills": [
+            "Big Data (Spark, Hadoop, Data Warehousing)",
+            "Machine Learning (Python Libraries: Scikit-learn, TensorFlow, PyTorch)",
+            "DevOps (Kubernetes, Docker, Ansible)"
+        ]
+    }
+]

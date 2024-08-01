@@ -1,0 +1,13 @@
+GET https://api.linkedin.com/v2/userinfo
+Authorization: Bearer AQXZA7zyBMR7oURwlyjoqVPfT1a3yK_A6-ItiS8zOWyNUSwpgt9bnTrokxv6500poAYN8qmm4dkGb-f7XW_ivfmAWbVaUQkhxeG1THKudOrHLrHr7K2HVuYJNvURl3Jlv7fnSoDRE_ya_pXoYbMcXSc1MCyrTbEtfuVJtYKe29uL55lkYp5svfwsmBXOajnkSQZE4NBu6qHdWHogGXrADiwDG0AAeMMkyMZmTQVSI-jZpmCBURT39JZK7v3kcy73SOKjDfmBWY5YqOsHeM9DiLypIMHlm0_eWE1OOdfVKenNhjSljrkjobfegYtzZokW8FJJ4hHOE4Ii6YXoAQZ0iK-LrCRWNA
+
+###
+
+GET https://api.linkedin.com/v2/me?projection=(id,firstName,lastName,skills)&oauth2_access_token=AQXOxRD8kVEfu7FSGyDTvdDVRMdbEmyXnMr2hv85xRdvXh0J2BMwQUUfFd6eI3tTQxrAHtYCteYyCIbWG8CCHr8XoitAzb-hLn_2T50APVr3SCct16rs7ebV7J4RUnFq8BgPG1BaBthBqjnkjZHC0G9uwzFt3qdmj6HK2C-QbNEQt9c_uVLDud3j6vsWw5lk6SyUTbP8WN-g-W5Nr-Nz-uhW-bxr9kPfjY5N0GUtbhRD1fut6NEyJPrcn7X0nsPPXFhpYKbSveSZw6LiCUHx-uWgJgGkS8kH_0p-swPhVSP7DUdkpY49DXCB1V-S2-znOfh19tQNq5AJzbDZAZtuyjM97TTS7Q
+
+###
+
+POST http://localhost:8000/generate-learning-path
+Content-Type: application/json
+
+{"role": "Software Developer", "userSkills": "HTML, CSS, JavaScript, JQuery"}
